@@ -16,7 +16,7 @@ Description:
 -------------------
 
 TODO (so far):
-    1. beautify the UI
-    2. make a YT tutoria/demo 
+- beautify the UI
+- make a YT tutoria/demo 
 
 STATUS: Site is not currently deployed... :(
