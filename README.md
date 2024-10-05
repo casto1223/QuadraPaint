@@ -5,7 +5,7 @@ Tutorial:
     2. Merge: merge the selected quadrant with its 3 neigboring quadrants
     3. Color: fill the selected quadrant with a color (chosen from a drop-down menu)
        
-YouTube DEMO of app: 
+YouTube DEMO of app: WORK IN PROGRESS
 
 Description: 
 - An interactive web application that allows users to paint via pixel-art style canvas, and save that
@@ -16,6 +16,7 @@ Description:
 -------------------
 
 TODO (so far):
- - beautify the UI
+    1. beautify the UI
+    2. make a YT tutoria/demo 
 
 STATUS: Site is not currently deployed... :(
