@@ -10,6 +10,4 @@ Tutorial:
     2. Merge: merge the selected quadrant with its 3 neigboring quadrants
     3. Color: fill the selected quadrant with a color (chosen from a drop-down menu)
 
-DEMO/WALK-THRU on YouTube:
-
 STATUS: Site is not currently deployed... :(
