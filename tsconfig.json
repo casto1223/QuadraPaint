@@ -17,6 +17,5 @@
     "noImplicitReturns": true,
     "inlineSourceMap": true,
     "downlevelIteration": true
-  },
-  "include": ["src/**/*"]
+  }
 }
