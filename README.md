@@ -20,4 +20,4 @@ TODO (so far):
 - beautify the UI
 - make a YT tutoria/demo 
 
-STATUS: Site is not currently deployed as it was part of UW CSE331 coursework... :(
+STATUS: Site is not currently deployed... :(
