@@ -2,7 +2,7 @@
   "compilerOptions": {
     "module": "commonjs",
     "esModuleInterop": true,
-    "target": "es5",
+    "target": "ES6",
     "moduleResolution": "node",
     "outDir": "dist",
     "rootDir": "src",
